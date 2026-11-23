@@ -12,8 +12,18 @@ grades = []
 number = int(input("How many grades do you want to enter? "))
 
 for i in range(number):
-    grade = float(input(f"Enter grade {i + 1} (0-100): "))
-    grades.append(grade)
+    while True:
+        try:
+            grade = float(input(f"Enter grade {i + 1} (0-100): "))
+
+            if 0 <= grade <= 100:
+                grades.append(grade)
+                break
+            else:
+                print("Invalid grade! Enter 0-100.")
+
+        except ValueError:
+            print("Please enter a valid number.")
 
 # Display grade report
 print("\n===== STUDENT GRADE REPORT =====")
