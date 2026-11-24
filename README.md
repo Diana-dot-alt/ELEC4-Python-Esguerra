@@ -25,7 +25,7 @@
 ![P3 Screenshot](set1/p3/screenshots/P3_Add_Student.png)
 
 ### P4 - Exception Handling
-![P4 Screenshot](set1/p4/screenshots/P4_Division_by_Zero)
+![P4 Screenshot](set1/p4/screenshots/P4_Division_by_Zero.png)
 
 ## Set 2 Activities
 
