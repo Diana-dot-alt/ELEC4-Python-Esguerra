@@ -2,7 +2,7 @@
 
 **Student Name:** Diana C. Esguerra  
 **Section:** IV - BSIT - B  
-**Course:** ELEC4 - Python Programming
+**Course:**  LN01_ELEC4 Elective 4 (Special Topics on Web and Mobile 2)
 
 ## Set 1 Activities
 
